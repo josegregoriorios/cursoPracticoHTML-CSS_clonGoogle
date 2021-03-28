@@ -10,7 +10,6 @@ html {
 /*------------------------------------------------------------------ <!-- start header --> */
 #navbar {
     font-size: 1.4rem;
-    color:  #70757a;
 }
 .menu-container {
     height: 48px;
@@ -22,6 +21,7 @@ html {
 }
 .menu-container a{
     text-decoration: none;
+    color: #474747;
 }
 .menu-container li {
     width: 5%;
@@ -88,7 +88,7 @@ html {
 /*------------------------------------------------------------------ <!-- end contens --> */
 /*------------------------------------------------------------------ <!-- start footer --> */
 footer {
-    background-color: #dadce0;
+    background-color: #edeff1;
     width: 100%;
     position: absolute;
     bottom: 0;
