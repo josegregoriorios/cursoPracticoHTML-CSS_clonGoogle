@@ -110,6 +110,7 @@ footer .footer {
     display: flex;
     list-style: none;
     padding-inline-start: 10px;
+    padding-inline-end: 10px;
 }
 .footer li {
     display: flex;
