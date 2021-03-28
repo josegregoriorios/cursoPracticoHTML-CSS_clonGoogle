@@ -10,6 +10,7 @@ html {
 /*------------------------------------------------------------------ <!-- start header --> */
 #navbar {
     font-size: 1.4rem;
+    color:  #70757a;
 }
 .menu-container {
     height: 48px;
