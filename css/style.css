@@ -34,7 +34,7 @@ html {
 .logo-principal{
     display: flex;
     justify-content: center;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 .box-search {
     display: flex;
@@ -122,3 +122,4 @@ footer .footer {
     text-decoration: none;
     color:  #70757a;
 }
+/*------------------------------------------------------------------ <!-- end footer --> */
